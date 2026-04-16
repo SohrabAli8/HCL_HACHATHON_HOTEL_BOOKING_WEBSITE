@@ -1,0 +1,7 @@
+﻿C:\Users\1982v_uey4l0i\OneDrive\Desktop\hotel1\HotelBookingAPI\Program.cs(14,25): error CS0234: The type or namespace name 'Models' does not exist in the namespace 'Microsoft.OpenApi' (are you missing an assembly reference?) [C:\Users\1982v_uey4l0i\OneDrive\Desktop\hotel1\HotelBookingAPI\HotelBookingAPI.csproj]
+
+Build FAILED.
+    1 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.02
