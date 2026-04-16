@@ -1,0 +1,31 @@
+﻿[33mΓ¥»[39m Building...
+[32mΓ£ö[39m Building...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m                    [2m | [22m [1mRaw size[22m
+[32mchunk-4LAAXZBD.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m1.11 MB[39m[2m | [22m
+[32mchunk-KFHSMAIK.js[39m  [2m | [22m[2m-[22m                        [2m | [22m[36m268.71 kB[39m[2m | [22m
+[32mchunk-HCBNJLA6.js[39m  [2m | [22m[2m-[22m                        [2m | [22m[36m214.43 kB[39m[2m | [22m
+[32mpolyfills.js[39m       [2m | [22m[2mpolyfills[22m                [2m | [22m [36m89.77 kB[39m[2m | [22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m                     [2m | [22m [36m14.57 kB[39m[2m | [22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m                   [2m | [22m  [36m5.77 kB[39m[2m | [22m
+[32mchunk-N3P34MTZ.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m2.80 kB[39m[2m | [22m
+
+[1m [22m                  [2m | [22m[1mInitial total[22m            [2m | [22m  [1m1.71 MB[22m
+
+[1mLazy chunk files[22m   [2m | [22m[1mNames[22m                    [2m | [22m [1mRaw size[22m
+[32mchunk-XFYDBLQQ.js[39m  [2m | [22m[2madmin-dashboard-component[22m[2m | [22m [36m42.52 kB[39m[2m | [22m
+[32mchunk-GXHBFZLG.js[39m  [2m | [22m[2mhotel-list-component[22m     [2m | [22m [36m29.45 kB[39m[2m | [22m
+[32mchunk-GAKO6ZQN.js[39m  [2m | [22m[2mbooking-component[22m        [2m | [22m [36m27.79 kB[39m[2m | [22m
+[32mchunk-JEWAFBYV.js[39m  [2m | [22m[2mroom-list-component[22m      [2m | [22m [36m23.60 kB[39m[2m | [22m
+[32mchunk-4XZCAY5W.js[39m  [2m | [22m[2mmy-bookings-component[22m    [2m | [22m [36m17.77 kB[39m[2m | [22m
+[32mchunk-A26XVNZF.js[39m  [2m | [22m[2mregister-component[22m       [2m | [22m [36m15.51 kB[39m[2m | [22m
+[32mchunk-FXDZF373.js[39m  [2m | [22m[2mbooking-success-component[22m[2m | [22m [36m13.18 kB[39m[2m | [22m
+[32mchunk-3EOKFBB4.js[39m  [2m | [22m[2mlogin-component[22m          [2m | [22m [36m10.99 kB[39m[2m | [22m
+[32mchunk-3WR4XXRP.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m1.36 kB[39m[2m | [22m
+[32mchunk-INSCISUV.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m1.23 kB[39m[2m | [22m
+[32mchunk-IVQMQY4X.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m1.10 kB[39m[2m | [22m
+[32mchunk-J7WOITRF.js[39m  [2m | [22m[2m-[22m                        [2m | [22m  [36m1.06 kB[39m[2m | [22m
+
+Application bundle generation complete. [4.628 seconds]
+
+Output location: C:\Users\1982v_uey4l0i\OneDrive\Desktop\hotel1\hotel-booking-frontend\dist\hotel-booking-frontend
+
